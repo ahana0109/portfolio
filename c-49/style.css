@@ -1,0 +1,39 @@
+h1{
+    color: rgb(14, 158, 110);
+}
+{   border:solid;
+}
+
+.header{
+    background-color: beige;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: rgb(162, 167, 167);
+    
+    
+}
+
+.menu a{
+    color:ghostwhite;
+}
+
+.game{
+    background-color: thistle;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.items{
+    background-color: lavender;
+}
+
+.icons{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
